@@ -16,10 +16,24 @@
 
                     </TextCell>
                 </TableSection>
+                <TableSection  Title="Segunda seccion">
+                    <TextCell Text="" Detail="Profesion">
+                        
+                    </TextCell>
+                    <TextCell Text="Especialidad"> 
+                        
+                    </TextCell>
+                    <EntryCell Placeholder="Ingrese Especialidad"></EntryCell>
+                    <SwitchCell Text=" Graduado"></SwitchCell>
+                    <TextCell Text="" Detail="Logo">
+
+                    </TextCell>
+                </TableSection>
+                
                 
                 
             </TableView.Root>
         </TableView>
-        
+
     </ContentPage.Content>
 </ContentPage>
