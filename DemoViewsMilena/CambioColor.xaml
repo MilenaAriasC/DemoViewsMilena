@@ -28,6 +28,5 @@
                Text="Valor Hexadecimal"
                FontAttributes="Bold"
                FontSize="Large"/>
-        
         </StackLayout>
 </ContentPage>
