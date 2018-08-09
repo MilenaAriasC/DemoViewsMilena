@@ -11,7 +11,7 @@ namespace DemoViewsMilena
         {
             InitializeComponent();
 
-            MainPage = new  CambioColor();
+            MainPage = new  Ejercicio();
         }
 
         protected override void OnStart()

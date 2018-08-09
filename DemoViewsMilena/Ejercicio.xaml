@@ -24,7 +24,7 @@
                     <TextCell Text="Especialidad"> 
                           
                     </TextCell>
-                <EntryCell Placeholder="Ingrese area"></EntryCell>
+                <EntryCell Label="especialidad" Placeholder="Ingrese Especialidad"></EntryCell>
                     <SwitchCell Text=" Graduado"></SwitchCell>
                     <TextCell Text="" Detail="Logo">
 
